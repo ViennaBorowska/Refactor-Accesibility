@@ -12,22 +12,22 @@ This is a project to refactor a HTML + CSS file to improve accesibility for user
 
 
 ## FILES
-### README.md - contact information, file information, refactor log
-### index.html - HTML code
-### assets v
-#### < style.css = CSS stylesheet
-#### < images folder = all images linked in code 
+* README.md - contact information, file information, refactor log
+* index.html - HTML code
+* assets v
+1. < style.css = CSS stylesheet
+2. < images folder = all images linked in code 
 
 
 ## REFACTORS COMPLETED
-### Semantic HTML elements added
-### Heading attributes now in sequential order
-### SEO broken link - ID tag added
-### Descriptive title added
-### Added title to hero image
-### Added alt tags to all other images
-### CSS selectors & properties consolidated
-### Comments added to CSS stylesheet
-### Reduced size of 4 jpg images (photographs, not illustrations/icons)
+* Semantic HTML elements added
+* Heading attributes now in sequential order
+* SEO broken link - ID tag added
+* Descriptive title added
+* Added title to hero image
+* Added alt tags to all other images
+* CSS selectors & properties consolidated
+* Comments added to CSS stylesheet
+* Reduced size of 4 jpg images (photographs, not illustrations/icons)
 
 
