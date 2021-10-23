@@ -1,3 +1,7 @@
+/*************
+ || SITEWIDE 
+ *************/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +11,10 @@
 body {
     background-color: #d9dcd6;
 }
+
+/************************
+ || HEADER + NAVIGATION 
+ ************************/
 
 .header {
     padding: 20px;
@@ -55,6 +63,10 @@ a {
     background-position: center;
 }
 
+/************* 
+|| MAIN CARDS 
+**************/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +105,10 @@ p {
     margin-left: 25px;
 }
 
+/***************** 
+|| SIDEBAR COLUMN
+******************/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +135,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/********* 
+|| FOOTER 
+**********/
 
 .footer {
     padding: 30px;
