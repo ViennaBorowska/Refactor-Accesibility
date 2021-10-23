@@ -1,7 +1,7 @@
 # ACCESIBILITY REFACTOR
 Vienna Borowska - University of Manchester Coding Bootcamp - vienna.borowska@hotmail.com
 
-# DEPLOYED SITE
+## DEPLOYED SITE
 https://viennaborowska.github.io/Refactor-Accesibility/
 
 ## LANGUAGE
@@ -15,8 +15,8 @@ This is a project to refactor a HTML + CSS file to improve accesibility for user
 ### README.md - contact information, file information, refactor log
 ### index.html - HTML code
 ### assets v
-< style.css = CSS stylesheet
-< images folder = all images linked in code 
+#### < style.css = CSS stylesheet
+#### < images folder = all images linked in code 
 
 
 ## REFACTORS COMPLETED
