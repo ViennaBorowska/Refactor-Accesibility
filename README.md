@@ -15,8 +15,8 @@ This is a project to refactor a HTML + CSS file to improve accesibility for user
 * README.md - contact information, file information, refactor log
 * index.html - HTML code
 * assets v
-## < style.css = CSS stylesheet
-## < images folder = all images linked in code 
+1. < style.css = CSS stylesheet
+2. < images folder = all images linked in code 
 
 
 ## REFACTORS COMPLETED
